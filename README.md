@@ -2,7 +2,7 @@
 
 ## Author
 **Sekgathe Karabo Matlala**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sekgathe-karabo-matlala-13996b217/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sekgathe-matlala/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Sekgathe21)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2x4wrj2gQRLukNg7-Ces1Q)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=codepen&logoColor=white)](https://www.datascienceportfol.io/SekgatheKM22)
