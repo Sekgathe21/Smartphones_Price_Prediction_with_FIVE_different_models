@@ -9,6 +9,10 @@
 
 ---
 
+> **N.B.:** Always use the updated version of the notebook, i.e., **Trail 2**, as it is the newer version in this case.
+
+---
+
 ## 📝 Project Overview
 
 ### 🎯 Objective
