@@ -15,6 +15,8 @@
 
 ## 📝 Project Overview
 
+### Video Demo:  <https://youtu.be/G2NnpZBiNUs>
+
 ### 🎯 Objective
 This project focuses on predicting smartphone prices using various machine learning models. The dataset comprises smartphone specifications, including RAM, storage, brand, model, and price. The goal is to create models that accurately predict smartphone prices based on these features.
 
